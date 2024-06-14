@@ -272,6 +272,7 @@ def test_n_towers():
     print("All n_towers tests passed!")
 
 
+
 # Run the tests
 linear_test()
 ordered_subset_test()
