@@ -1,13 +1,6 @@
 from task2 import *  # TODO: Change "task2" to the name of the main program
 
-import random
-import itertools
 
-import itertools
-import random
-
-
-# Function from task2, assuming it is correct
 def alt_sum(x, target):
     sums = {0}
     for num in x:
